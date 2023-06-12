@@ -80,7 +80,7 @@
     <div class="border-bottom border-2 border-print-0 border-dark mb-3 pb-3 pb-print-0 mb-print-1">
         <h4 class="mb-4">Professional Experience</h4>
         {{#each positions}}
-        <div class="row d-block d-md-flex"> <!--{{#unless @last}} mb-3{{/unless}}-->
+        <div class="row d-block d-md-flex{{#unless @last}} mb-3{{/unless}}">
             <div class="col-md-2 pt-1">
                 {{ period }}
             </div>
@@ -102,7 +102,7 @@
     <div class="border-bottom border-2 border-print-0 border-dark mb-3 pb-3 pb-print-0 mb-print-1">
         <h4 class="mb-4">Education</h4>
         {{#each educations}}
-        <div class="row d-block d-md-flex"> <!--{{#unless @last}} mb-3{{/unless}}-->
+        <div class="row d-block d-md-flex{{#unless @last}} mb-2{{/unless}}">
             <div class="col-md-2 pt-1">
                 {{ period }}
             </div>
@@ -124,7 +124,7 @@
     <div class="border-bottom border-2 border-print-0 border-dark mb-3 pb-3 pb-print-0 mb-print-1">
         <h3 class="mb-4">Certifications</h3>
         {{#each certifications}}
-        <div class="row d-block d-md-flex"> <!--{{#unless @last}} mb-3{{/unless}}-->
+        <div class="row d-block d-md-flex{{#unless @last}} mb-3{{/unless}}">
             <div class="col-md-2 pt-1">
                 {{ period }}
             </div>
@@ -138,7 +138,7 @@
     <div class="border-bottom border-2 border-print-0 border-dark mb-3 pb-3 pb-print-0 mb-print-1">
         <h4 class="mb-4">Courses</h4>
         {{#each courses}}
-        <div class="row d-block d-md-flex"> <!--{{#unless @last}} mb-3{{/unless}}-->
+        <div class="row d-block d-md-flex{{#unless @last}} mb-3{{/unless}}">
             <div class="col-md-2 pt-1">
                 {{ period }}
             </div>
