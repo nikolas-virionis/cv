@@ -78,7 +78,7 @@ module.exports = {
       url: 'https://www.credly.com/badges/b378e9b5-337d-4878-a72f-f1ae300103a7/public_url'
     },
     {
-      title: 'Scala and Spark for Big Data and Machine Learning',
+      title: 'Scala and Spark for Big Data and Machine Learning, on Udemy',
       period: 'Jan/2023',
       skills: ['Scala', 'Spark'],
       url: 'https://www.udemy.com/certificate/UC-62bb400f-5e92-47e6-87f7-e92eb682e778/'
