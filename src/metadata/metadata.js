@@ -11,13 +11,17 @@ module.exports = {
   },
   skills: [
     ['Python', 90],
+    ['Teamwork', 90],
     ['PySpark', 80],
     ['English', 80],
     ['AWS', 75],
     ['SQL', 75],
+    ['Docker', 70],
     ['Pandas', 70],
-    ['Infrastructure as Code', 70],
-    ['IaC (AWS CDK)', 70]
+    ['Infrastructure as Code - IaC', 70],
+    ['AWS CDK (IaC)', 70],
+    ['Serverless Framework (IaC)', 65],
+    ['AWS Cloudformation (IaC)', 60]
   ],
   positions: [
     {
