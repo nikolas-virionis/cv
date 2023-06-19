@@ -27,7 +27,7 @@ module.exports = {
     {
       title: 'Data Engineering Intern at yHub',
       period: 'Jan/2022 ~ Present',
-      skills: ['Python', 'PySpark', 'AWS', 'SQL', 'Infrastructure as Code', 'AWS CDK'],
+      skills: ['Python', 'PySpark', 'AWS', 'SQL', 'Infrastructure as Code', 'AWS CDK', 'Teamwork', 'Docker', 'Serverless Framework'],
       contents: `As a Data Engineering Intern at yHub, I gained invaluable hands-on experience in building cost-effective data pipelines using mostly serverless AWS Services. Collaborating closely with the team, I actively contributed to end-to-end development, problem-solving, and maintenance of the projects. Leveraging my skills in Python, Pandas, and PySpark, I implemented best practices to ensure efficient and scalable data processes. I proactively sought opportunities for improvement and successfully achieved three AWS Certifications in a few months of my professional career, allowing me to actively participate in solution discussions and make humble contributions to the team's success. Through my involvement in critical projects, I supported data-driven decision-making and enhanced my technical expertise while fostering effective collaboration within cross-functional teams.`
     }
   ],
@@ -35,7 +35,7 @@ module.exports = {
     {
       title: 'Bachelor of Computer Science at São Paulo Tech School',
       period: 'Jan/2021 ~ Dec/2024',
-      skills: ['Python', 'PySpark', 'AWS', 'SQL', 'Javascript', 'Java', 'Microsoft Azure', 'Data Structures and Algorithms'],
+      skills: ['Python', 'PySpark', 'AWS', 'SQL', 'Javascript', 'Java', 'Microsoft Azure', 'Data Structures and Algorithms', 'Docker', 'AWS Cloudformation'],
       contents: `Bachelor's degree in Computer Science with a strong emphasis on practical, real-world technologies and problem-solving skills. Gained valuable soft skills through dedicated "socio-emotional development" classes and acquired significant experience from engaging in extensive hands-on projects focused on real-world applications.`
     },
     {
