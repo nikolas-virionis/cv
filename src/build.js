@@ -24,7 +24,7 @@ const template = handlebars.compile(source);
 const pdfFileName = `Nikolas Virionis CV.pdf`;
 const html = template({
   ...templateData,
-  baseUrl: `https://${username()}.github.io/cv}`,
+  baseUrl: `https://${username()}.github.io/cv`,
   pdfFileName,
   updated: dayjs().format('MMMM D, YYYY'),
 });
