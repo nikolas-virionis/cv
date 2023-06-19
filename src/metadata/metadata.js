@@ -42,7 +42,7 @@ module.exports = {
         title: 'High School at Colégio Dante Alighieri',
         period: 'Jan/2018 ~ Dec/2020',
         skills: ['Python', 'Problem Solving'],
-        contents: `I graduated as one of the top students in my class from one of São Paulo's most prestigious schools. During my academic journey, I had the valuable opportunity to kickstart my tech career by actively participating in elective classes focused on Python programming and problem solving.`
+        contents: `I graduated as one of the top students in my class from one of São Paulo's most prestigious schools. During my academic journey, I had the valuable opportunity to kickstart my tech career by actively participating in elective classes focused on Python programming and problem-solving.`
     }
   ],
   certifications: [
@@ -92,31 +92,31 @@ module.exports = {
     {
       header: 'NPM published package',
       skills: ['Machine Learning',  'Javascript'],
-      contents: `The linear-regression-model package provides a simpler way to get The linear regression and correlation between two variables in Node.`,
+      contents: `The linear-regression-model package provides a simpler way to get the linear regression and correlation between two variables in Node.`,
       url: 'https://github.com/nikolas-virionis/linear-regression-model'
     },
     {
       header: 'PyPI published package #1',
       skills: ['Python', 'Machine Learning'],
-      contents: `The polynomial-regression-model package aims at from the data the user gives it, it deduces the best regression model to analyse it and returns the model, fit for predictions.`,
+      contents: `The polynomial-regression-model package aims to deduce the best regression model from the data provided by the user, analyze it, and return the model fit for predictions.`,
       url: 'https://github.com/nikolas-virionis/polynomial-regression'
     },
     {
       header: 'PyPI published package #2',
       skills: ['Python', 'Machine Learning', 'Data Analysis', 'Working with external APIs'],
-      contents: `The spotify-recommender-api package serves the purpose of providing both recommendations for the user and a way for one to "cluster" automatically songs within a big playlist, base on the genres, popularity and song features, for example.`,
+      contents: `The spotify-recommender-api package serves the purpose of providing both recommendations for the user and a way to automatically "cluster" songs within a big playlist based on genres, popularity, and song features.`,
       url: 'https://github.com/nikolas-virionis/spotify-api'
     },
     {
       header: 'College project #1 - Safelog',
       skills: ['Node', 'Java', 'AWS EC2'],
-      contents: `(aug/2021 - dec/2021) A Freshman year, group project in college, that collects machine health data and sets up alarms and dashboards based on that information.`,
+      contents: `(aug/2021 - dec/2021) A Freshman year group project in college that collects machine health data and sets up alarms and dashboards based on that information.`,
       url: 'https://github.com/nikolas-virionis/Safelog'
     },
     {
       header: 'College project #2 - Homebox',
       skills: ['React', 'Java Spring Boot', 'AWS'],
-      contents: `(jan/2022 - dec/2022) A group project in college, that provides an peer to peer business model platform (uber-like) around home services, such as plumbing or painting.`,
+      contents: `(jan/2022 - dec/2022) A group project in college that provides a peer-to-peer business model platform (uber-like) for home services such as plumbing or painting.`,
       url: 'https://github.com/nikolas-virionis'
     },
   ]
