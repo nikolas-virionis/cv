@@ -25,8 +25,14 @@ module.exports = {
   ],
   positions: [
     {
+      title: 'Jr Data Engineer at yHub',
+      period: 'Jul/2023 ~ Present',
+      skills: ['Python', 'PySpark', 'AWS', 'SQL', 'Infrastructure as Code', 'AWS CDK', 'Teamwork', 'Docker', 'Serverless Framework'],
+      contents: ``
+    },
+    {
       title: 'Data Engineering Intern at yHub',
-      period: 'Jan/2022 ~ Present',
+      period: 'Jan/2022 ~ Jun/2023',
       skills: ['Python', 'PySpark', 'AWS', 'SQL', 'Infrastructure as Code', 'AWS CDK', 'Teamwork', 'Docker', 'Serverless Framework'],
       contents: `As a Data Engineering Intern at yHub, I gained invaluable hands-on experience in building cost-effective data pipelines using mostly serverless AWS Services. Collaborating closely with the team, I actively contributed to end-to-end development, problem-solving, and maintenance of the projects. Leveraging my skills in Python, Pandas, and PySpark, I implemented best practices to ensure efficient and scalable data processes. I proactively sought opportunities for improvement and successfully achieved three AWS Certifications in a few months of my professional career, allowing me to actively participate in solution discussions and make humble contributions to the team's success. Through my involvement in critical projects, I supported data-driven decision-making and enhanced my technical expertise while fostering effective collaboration within cross-functional teams.`
     }
